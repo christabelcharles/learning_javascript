@@ -1,0 +1,7 @@
+let k = [4, 7, 9, 24, 89 ];
+let j = ['yello', 'basic', 'traumatized', 'lingering' ];
+
+console.log(k[0]);
+console.log(k[1]);
+console.log(j[3]);
+console.log(k);
