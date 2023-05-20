@@ -1,0 +1,8 @@
+ git init - this command line is to initialize the reprository for the first time 
+ git commit -m "first commit" - this command line is to commit push message where -m represent commit message and the string inside the double quote represent the message 
+ git remote add origin https://github.com/christabelcharles/learning_javascript.git - this command line is to specify the reprository you will be pushing to 
+ git push -u origin master - this command line is to push commited code to the origin branch 
+
+ if i want to push code again 
+ git commit -m "first commit"
+ git push -u origin master
