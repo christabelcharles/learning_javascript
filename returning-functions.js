@@ -10,3 +10,4 @@ function animal() {
 }
 // This line of code is rarely seen
 console.log(animal()())
+
